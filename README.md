@@ -7,9 +7,11 @@ Banking chatbot which can guide a person with any banking queries. Bank Bot prov
 3) Above step will open the server. Now right click the index.html page and open with brower. You will be able to see the chat window where you can start the conversation and test.
 
 ### Working
-Chatbot_train.py file trains the data available in the data folder. Once it is trained , the result will be stored as db.sqlite.  
-Chatbot.py uses this db.sqlite to generate responses for user queries.  
-server.py sends back message to the client.  
+1. Chatbot_train.py file trains the data available in the data folder. Once it is trained , the result will be stored as db.sqlite.  
+2. Chatbot.py uses this db.sqlite to generate responses for user queries.  
+3. server.py sends back message to the client.  
 
 
-Enjoy the application ...........!
+
+
+#### Enjoy the application ...........!
