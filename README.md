@@ -1,7 +1,7 @@
 # Bank-Bot
 Banking chatbot which can guide a person with any banking queries. Bank Bot provide 24/7 client support, so existing and potential customers can try and solve their banking problems after work hours and on weekends.
 
-### requirements
+### Requirements
 ChatterBot-0.8.4  
 simple-websocket-server  
 
